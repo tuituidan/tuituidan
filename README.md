@@ -1,4 +1,4 @@
-<img src="https://github.com/tuituidan/tuituidan/raw/master/bg.jpg" alt="1" />
+<img style="position: absolute;" src="https://github.com/tuituidan/tuituidan/raw/master/bg.jpg" alt="1" />
 
 ### Hi there 👋
 🔭 I’m currently working on ...
