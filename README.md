@@ -1,4 +1,4 @@
-<img align="right" src="https://i.loli.net/2020/07/28/pJzkbMj7KiACdRI.jpg" alt="禅" />
+<img src="https://i.loli.net/2020/07/28/pJzkbMj7KiACdRI.jpg" alt="禅" />
 
 ### Hi there 👋
 🔭 I’m currently working on ...
