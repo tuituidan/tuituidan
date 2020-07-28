@@ -1,5 +1,9 @@
+<img align="right" src="bg.jpg" alt="禅" />
+
 ### Hi there 👋
 🔭 I’m currently working on ...
+
+> **当华美的叶片落尽，生命的脉络才清晰可见**
 <!--
 **tuituidan/tuituidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
