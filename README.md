@@ -1,4 +1,4 @@
-<img src="https://github.com/tuituidan/tuituidan/raw/master/bg.jpg" alt="talk is cheap,show me the code" />
+<img src="https://i.loli.net/2020/07/31/OLmwHoSk7QbvRZI.jpg" alt="talk is cheap,show me the code" />
 
 ## 一个人是怎么一步一步废掉的
 
