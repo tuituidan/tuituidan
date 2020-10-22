@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tuituidan/tuituidan/master/bg.jpg" alt="talk is cheap,show me the code" />
+<img src="https://cdn.jsdelivr.net/gh/tuituidan/tuituidan/bg.jpg" alt="talk is cheap,show me the code" />
 
 ```
              ,----------------,              ,---------,                             _ooOoo_                               
