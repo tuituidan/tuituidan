@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/bf4f52c438b079b7a2adc507e5114eb48456afe1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f74756974756964616e2f74756974756964616e2f6267312e6a7067" alt="talk is cheap,show me the code" />
+<img src="http://tuituidan.gitee.io/pic/profile/bg.jpg" alt="talk is cheap,show me the code" />
 
 ```
              ,----------------,              ,---------,                             _ooOoo_                               
